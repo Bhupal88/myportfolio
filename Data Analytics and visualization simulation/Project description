@@ -1,0 +1,21 @@
+/* This is a Forage project simulating data analytics and visualization in real world tasks */
+The client has sent through:
+•	7 data sets - each data set contains different columns and values
+•	A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+
+Based on the files given I'll be performing the following steps:
+1. Requirements gathering
+2. Data Cleaning
+3. Data modelling
+
+TASK1
+The client wants us to clean the data removing missing values, changing data types of some values and removing irrelevant columns.
+After merging the tables, the client wants to know the Top 5 performing categories.
+
+
+TASK2
+The client wants to understand the top 5 content categories. This will involve presenting the findings in an appropriate visualization charts.
+Similarly, some other requests from the client:
+•	How many unique categories are there?
+•	How many reactions are there to the most popular category?
+•	What was the month with the most posts?
